@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="355.68625mm"
+   height="224.15808mm"
+   viewBox="0 0 355.68625 224.15808"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="InTaVia-entity-linking.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="610.44523"
+     inkscape:cy="412.06419"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid977"
+       originx="-55.763872"
+       originy="-40.190442" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304948"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-7-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-5-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.112325,-34.105101)">
+    <g
+       id="g1350">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64445px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="53.688461"
+         y="42.192623"
+         id="text113"><tspan
+           sodipodi:role="line"
+           id="tspan111"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64445px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.211666"
+           x="53.688461"
+           y="42.192623">BiographySampo Graph</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.158786;stroke-dasharray:0.635144, 0.476358;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect552"
+         width="112.72201"
+         height="98.37809"
+         x="50.191719"
+         y="34.300163" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="91.382629"
+         y="64.012451"
+         id="text113-3"><tspan
+           sodipodi:role="line"
+           id="tspan6686"
+           x="91.382629"
+           y="64.012451"
+           style="stroke-width:0.211666">Person Proxy</tspan><tspan
+           sodipodi:role="line"
+           id="tspan6688"
+           x="91.382629"
+           y="68.95134"
+           style="stroke-width:0.211666">&quot;Acerbi, Giuseppe&quot;</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.291482;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3161"
+         cx="106.55273"
+         cy="65.443642"
+         rx="20.897579"
+         ry="9.0985527" />
+    </g>
+    <g
+       id="g1387">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="105.49519"
+         y="86.453735"
+         id="text113-0"><tspan
+           sodipodi:role="line"
+           id="tspan8753"
+           x="105.49519"
+           y="86.453735"
+           style="stroke-width:0.211666">owl:sameAs</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="70.445137"
+         y="109.93611"
+         id="text113-3-5"><tspan
+           sodipodi:role="line"
+           id="tspan6738"
+           x="70.445137"
+           y="109.93611"
+           style="stroke-width:0.211666">http://www.wikidata.org/entity/Q55007624</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.421833;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3161-2"
+         cx="106.78408"
+         cy="108.82242"
+         rx="44.083427"
+         ry="9.0333776" />
+      <path
+         d="m 104.41809,74.688394 -0.12237,23.146397"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.319332;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#RoundedArrow)"
+         id="path7158" />
+    </g>
+    <g
+       id="g306"
+       transform="matrix(0.8,0,0,0.8,45.59109,29.236828)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="138.21313"
+         y="159.43544"
+         id="text113-9"><tspan
+           sodipodi:role="line"
+           id="tspan10486"
+           x="138.21313"
+           y="159.43544">InTaVia Shared Entity Graph</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="204.29347"
+         y="186.76407"
+         id="text113-3-3"><tspan
+           sodipodi:role="line"
+           id="tspan10373"
+           x="204.29347"
+           y="186.76407">Provided Person</tspan><tspan
+           sodipodi:role="line"
+           id="tspan10375"
+           x="204.29347"
+           y="192.93768">&quot;Giuseppe Acerbi&quot;</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.364353;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3161-86"
+         cx="223.25609"
+         cy="188.55305"
+         rx="26.121973"
+         ry="11.373191" />
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.190702;stroke-dasharray:0.762807, 0.572103;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect552-6-1-7"
+         width="185.44583"
+         height="86.253029"
+         x="134.29265"
+         y="147.01711" />
+    </g>
+    <g
+       id="g1376">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64445px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="296.49393"
+         y="42.771015"
+         id="text113-2"><tspan
+           sodipodi:role="line"
+           id="tspan8885"
+           x="296.49393"
+           y="42.771015"
+           style="stroke-width:0.211666">APIS Graph</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.158786;stroke-dasharray:0.635144, 0.476358;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect552-6"
+         width="112.72201"
+         height="98.37809"
+         x="292.99716"
+         y="34.878551" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="334.18808"
+         y="64.590843"
+         id="text113-3-53"><tspan
+           sodipodi:role="line"
+           id="tspan8887"
+           x="334.18808"
+           y="64.590843"
+           style="stroke-width:0.211666">Person Proxy</tspan><tspan
+           sodipodi:role="line"
+           id="tspan8889"
+           x="334.18808"
+           y="69.529732"
+           style="stroke-width:0.211666">&quot;Giuseppe Acerbi&quot;</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.291482;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3161-8"
+         cx="349.35818"
+         cy="66.022034"
+         rx="20.897579"
+         ry="9.0985527" />
+    </g>
+    <g
+       id="g1395">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="349.92014"
+         y="87.494835"
+         id="text113-0-7"><tspan
+           sodipodi:role="line"
+           id="tspan8753-5"
+           x="349.92014"
+           y="87.494835"
+           style="stroke-width:0.211666">owl:sameAs</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.211666"
+         x="319.26578"
+         y="110.63017"
+         id="text113-3-5-5-4"><tspan
+           sodipodi:role="line"
+           id="tspan8891-1"
+           x="319.26578"
+           y="110.63017"
+           style="stroke-width:0.211666">https://d-nb.info/gnd/119372843</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.421833;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3161-2-5-6"
+         cx="347.97006"
+         cy="109.74783"
+         rx="44.083427"
+         ry="9.0333776" />
+      <path
+         d="m 349.26232,75.37075 -0.0626,23.387932"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.318874;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-7)"
+         id="path7158-4" />
+    </g>
+    <g
+       id="g368"
+       transform="matrix(0.8,0,0,0.8,45.59109,29.236828)">
+      <path
+         d="M 72.194355,110.63465 224.84622,286.28294"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.47102;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:1.88408, 1.88408;stroke-dashoffset:0"
+         id="path7158-49" />
+      <path
+         d="M 376.88613,113.78966 223.97537,286.10909"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.451648;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:1.80659, 1.80659;stroke-dashoffset:0;marker-start:url(#RoundedArrow)"
+         id="path7158-49-9" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="215.30754"
+         y="265.55396"
+         id="text113-0-7-2-8"><tspan
+           sodipodi:role="line"
+           id="tspan314"
+           x="215.30754"
+           y="265.55396">same-as</tspan></text>
+    </g>
+    <g
+       id="g338"
+       transform="matrix(0.8,0,0,0.8,45.59109,29.236828)">
+      <g
+         id="g9177"
+         transform="translate(-98.903598,0.57838346)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+           x="288.5929"
+           y="100.44033"
+           id="text113-3-5-5"><tspan
+             sodipodi:role="line"
+             id="tspan8891"
+             x="288.5929"
+             y="100.44033">https://d-nb.info/gnd/119372843</tspan></text>
+        <ellipse
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.527291;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3161-2-5"
+           cx="324.47324"
+           cy="99.337402"
+           rx="55.104282"
+           ry="11.291722" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="167.2934"
+         y="16.905218"
+         id="text113-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan9295"
+           x="167.2934"
+           y="16.905218">Wikidata Graph</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.198482;stroke-dasharray:0.79393, 0.595447;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect552-6-1"
+         width="140.90251"
+         height="122.97261"
+         x="159.16704"
+         y="6.1845827" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="226.05368"
+         y="71.660011"
+         id="text113-0-7-2"><tspan
+           sodipodi:role="line"
+           id="tspan556">wdt:P227 (GND ID)</tspan></text>
+      <path
+         d="m 224.98816,56.852932 0.27421,29.51518"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.3996;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-7-6)"
+         id="path7158-4-8" />
+      <g
+         id="g9135-3"
+         transform="translate(147.63242,-53.789679)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+           x="31.067562"
+           y="100.87411"
+           id="text113-3-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan6738-7"
+             x="31.067562"
+             y="100.87411">http://www.wikidata.org/entity/Q55007624</tspan></text>
+        <ellipse
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.527291;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3161-2-3"
+           cx="76.491234"
+           cy="99.481987"
+           rx="55.104282"
+           ry="11.291722" />
+      </g>
+    </g>
+    <g
+       id="g362"
+       transform="matrix(0.8,0,0,0.8,45.59109,29.236828)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="272.13373"
+         y="137.08051"
+         id="text113-0-4"><tspan
+           sodipodi:role="line"
+           id="tspan10754"
+           x="272.13373"
+           y="137.08051">idm-core:proxy_for</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="137.40504"
+         y="138.35506"
+         id="text113-0-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan10754-3"
+           x="137.40504"
+           y="138.35506">idm-core:proxy_for</tspan></text>
+      <path
+         d="M 355.77279,52.474841 228.76387,176.08803"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.328432;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:1.31373, 1.31373;stroke-dashoffset:0;marker-end:url(#RoundedArrow)"
+         id="path7158-49-9-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="M 95.424452,54.151106 223.01176,176.02914"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.328432;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:1.31373, 1.31373;stroke-dashoffset:0;marker-end:url(#RoundedArrow)"
+         id="path10712"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>
